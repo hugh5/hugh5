@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left"><b><a href="https://hugh5.github.io/portfolio/">🌐 Portfolio Website</a></b> - Visit my  to explore my work!<br><b><a href="https://social-timetable-uq.web.app/">🥇 Social Timetable App</a></b> - Featured Project!<br><br>Thanks for stopping by! Feel free to explore my repositories and reach out if you’d like to collaborate or discuss anything software-related. 😊</p>
+<p align="left"><b><a href="https://hugh5.github.io/portfolio/" target="_blank">🌐 Portfolio Website</a></b> - Visit my  to explore my work!<br><b><a href="https://social-timetable-uq.web.app/" target="_blank">🥇 Social Timetable App</a></b> - Featured Project!<br><br>Thanks for stopping by! Feel free to explore my repositories and reach out if you’d like to collaborate or discuss anything software-related. 😊</p>
 
 ###
 
