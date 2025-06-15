@@ -1,27 +1,31 @@
 <h1 align="left">Welcome to My GitHub Portfolio! 👨‍💻</h1>
 
-###
-
-<div align="center">
-  <img height="200" src="https://attic.sh/a2hcu2sjyy9ajq7xzchzep0e4xna"  />
-</div>
-
-###
-
-<p align="left">Hi there! I'm <b>Hugh</b>, a recent graduate with a <b>Bachelor of Computer Science</b> from <b>The University of Queensland</b>, majoring in <b>Programming Languages</b>. My passion lies in building innovative solutions through elegant and efficient code and sharing my projects with the world. On this GitHub, you'll find a collection of my projects that showcase my skills in software development, problem-solving, and user-centered design.</p>
-
-###
-
-<p align="left"><b><a href="https://hugh5.github.io/portfolio/" target="_blank">🌐 Portfolio Website</a></b> - Visit my  to explore my work!<br><b><a href="https://social-timetable-uq.web.app/" target="_blank">🥇 Social Timetable App</a></b> - Featured Project!<br><br>Thanks for stopping by! Feel free to explore my repositories and reach out if you’d like to collaborate or discuss anything software-related. 😊</p>
-
-###
-
-<h3 align="center">GitHub Stats</h3>
+<table>
+  <tr>
+    <td width="220">
+      <img height="200" src="https://chatgpt.com/backend-api/public_content/enc/eyJpZCI6Im1fNjg0ZTY2ODIzNTk0ODE5MWFmYTQ1NTUwNzI1OTI5ZTk6ZmlsZV8wMDAwMDAwMDJhNzQ2MWY3OWMwMTlkOGRhN2MyNWViZSIsInRzIjoiNDg2MTAyIiwicCI6InB5aSIsInNpZyI6IjBlNzdkYTMyYWE3ODM2ZDMxNDIxZjBhY2I2Y2YzOTZjMTc3ZTUyNzAzNWE0NzdmM2IyZDY5OGRiMjJjMTM0MmIiLCJ2IjoiMCIsImdpem1vX2lkIjpudWxsfQ==" />
+    </td>
+    <td>
+      <p align="left">
+        Hi I'm <b>Hugh</b>, a recent graduate with a <b>Bachelor of Computer Science</b> from <b>The University of Queensland</b>, majoring in <b>Programming Languages</b>. <br><br>
+        On this GitHub, you'll find a collection of my projects that showcase my skills in software development, problem-solving, and user-centered design.
+      </p>
+    </td>
+  </tr>
+</table>
 
 ###
 
+<p align="left"><b><a href="https://hugh5.github.io/portfolio/" target="_blank">🌐 Portfolio Website</a></b> - Visit my  to explore my work!<br><b><a href="https://social-timetable-uq.web.app/" target="_blank">🥇 Social Timetable App</a></b> - Featured Project!<br><br>Thanks for stopping by! Feel free to explore my repositories.</p>
 
-<div align="center">
+###
+
+<h3 align="left">GitHub Stats</h3>
+
+###
+
+
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=hugh5&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hugh5&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=gruvbox&hide_border=false&order=2" height="200" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com/?user=hugh5&locale=en&mode=weekly&theme=gruvbox&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
